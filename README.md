@@ -1,16 +1,28 @@
-### Hi there 👋
+## Olá Mundo! Sou Vicente Piltcher <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+ 
+### Sobre mim 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vicente-piltcher)](https://github.com/vicente-piltcher)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vicente-piltcher-1235b120b/)](https://www.linkedin.com/in/vicente-piltcher-1235b120b/)
+<br/><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="40" height="30"> Junior Developer<br/>
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg widht="30" height="30"> Contato: vipiltcher62@gmail.com
+ 
+Estudante e amante de programação e tecnologia desde 2018 👾
 
-<!--
-**vicente-piltcher/vicente-piltcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Status:
+[![Vicente Piltcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicente-piltcher)](https://github.com/vicente-piltcher/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente-piltcher&layout=compact)](https://github.com/vicente-piltcher/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="20" src="http://img.shields.io/badge/-PHP-111?style=flat-square&logo=PHP"></code>
+<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="20" src="http://img.shields.io/badge/-Flutter-blue?style=flat-red&logo=flutter"></code>
+<code><img height="20" src="http://img.shields.io/badge/-Dart-0066ff?style=flat-square&logo=Dart"></code>
+
+- Obrigado por visitar. 
