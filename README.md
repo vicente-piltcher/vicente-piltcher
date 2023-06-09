@@ -1,4 +1,4 @@
-## Olá Mundo! Sou Vicente Piltcher <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Olá Mundo!<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
 ### Sobre mim 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vicente-piltcher)](https://github.com/vicente-piltcher)
