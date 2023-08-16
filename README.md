@@ -27,6 +27,6 @@ Estudante e amante de programação e tecnologia desde 2018 👾
 <code><img heigth="20" src="https://img.shields.io/badge/-Vue.Js-3fb27f?style=flat&logo=vue.js&logoColor=white"></code>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vicente-piltcher&theme=dark&row=1&column=4&margin-w=4&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vicente-piltcher-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - Obrigado por visitar. 
