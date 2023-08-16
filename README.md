@@ -10,7 +10,6 @@ PUCRS - Ciências da Computação 📚 <br/>
 Estudante e amante de programação e tecnologia desde 2018 👾
 
 
-## Status:
 [![Vicente Piltcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicente-piltcher)](https://github.com/vicente-piltcher/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente-piltcher&layout=compact)](https://github.com/vicente-piltcher/github-readme-stats)
 
