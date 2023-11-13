@@ -1,10 +1,9 @@
 ## Olá Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
 ### Sobre mim 
-</a> <a href="https://instagram.com/dev.matheusguerra" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>  
-</a> <a href="https://www.linkedin.com/in/matheus-guerra-991b0b124/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<code></a><img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>   <a href="https://instagram.com/dev.matheusguerra" target="_blank"></code>
+
+<code></a><img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/> <a href="https://www.linkedin.com/in/matheus-guerra-991b0b124/" target="_blank"></code>
 <br/><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="40" height="30"> Junior Developer<br/>
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg widht="30" height="30"> Contato: vipiltcher62@gmail.com
  
