@@ -24,7 +24,7 @@ Estudante e amante de programação e tecnologia desde 2018 👾
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="http://img.shields.io/badge/-Flutter-blue?style=flat-red&logo=flutter"></code>
 <code><img height="20" src="http://img.shields.io/badge/-Dart-0066ff?style=flat-square&logo=Dart"></code>
-<code><img heigth="20" src="https://img.shields.io/badge/-Vue.Js-3fb27f?style=flat&logo=vue.js&logoColor=white"></code>
+<code><img heigth="20" src="https://camo.githubusercontent.com/a693dc5eace787749bf7951222e795b8f8a831b316d7115d18dbccd4fa5241d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d7675652e6a73"></code>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vicente-piltcher&theme=onedark&row=1&column=4&margin-w=4&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
