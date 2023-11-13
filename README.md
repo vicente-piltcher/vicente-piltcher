@@ -1,7 +1,7 @@
 ## Olá Mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
 ### Sobre mim 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white=https://www.instagram.com/vicente.piltcher/)](https://www.instagram.com/vicente.piltcher/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram=https://www.instagram.com/vicente.piltcher/)](https://www.instagram.com/vicente.piltcher/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vicente-piltcher-1235b120b/)](https://www.linkedin.com/in/vicente-piltcher-1235b120b/)
 <br/><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="40" height="30"> Junior Developer<br/>
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg widht="30" height="30"> Contato: vipiltcher62@gmail.com
