@@ -14,14 +14,15 @@ Estudante e amante de programação e tecnologia desde 2018 👾
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente-piltcher&layout=compact)](https://github.com/vicente-piltcher/github-readme-stats)
 
 
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074"></code>
+<code><img heigth="20" src="https://camo.githubusercontent.com/dbbba512c3c461f7076d80c0aa594e42ec9a8901848d7f8c81c86f4eeecd7849/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d68746d6c35"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="http://img.shields.io/badge/-PHP-111?style=flat-square&logo=PHP"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/3f23ca0cc8b89155eefc6684c4425be49f26a6278d349619d8dbd878a17353b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d63737333"></code>
 <code><img height="20" src="http://img.shields.io/badge/-Flutter-blue?style=flat-red&logo=flutter"></code>
 <code><img height="20" src="http://img.shields.io/badge/-Dart-0066ff?style=flat-square&logo=Dart"></code>
 <code><img heigth="20" src="https://camo.githubusercontent.com/a693dc5eace787749bf7951222e795b8f8a831b316d7115d18dbccd4fa5241d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d7675652e6a73"></code>
