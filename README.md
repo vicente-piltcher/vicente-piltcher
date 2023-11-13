@@ -2,6 +2,7 @@
  
 ### Sobre mim 
 <code></a><img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>   <a href="https://www.instagram.com/vicente.piltcher/" target="_blank"> </a></code> 
+
 <code><img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/> <a href="https://www.linkedin.com/in/vicente-piltcher-1235b120b/" target="_blank"></code>
 <br/><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="40" height="30"> Junior Developer<br/>
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg widht="30" height="30"> Contato: vipiltcher62@gmail.com
