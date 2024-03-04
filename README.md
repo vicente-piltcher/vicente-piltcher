@@ -14,7 +14,7 @@ Estudante e amante de programação e tecnologia desde 2018 👾
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicente-piltcher&layout=compact)](https://github.com/vicente-piltcher/github-readme-stats)
 
 
-<code><img height="20" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></code>
+<code><img height="20" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="http://img.shields.io/badge/-PHP-111?style=flat-square&logo=PHP"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/9aa0832500e5e13cc3d8bc68213a5888624a8e3f392b5e7fab4600982730838f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d3035313232413f7374796c653d666c6174266c6f676f3d6c61726176656c"></code>
