@@ -3,7 +3,7 @@
 ### Sobre mim 
 <code><a href="https://www.instagram.com/vicente.piltcher/" target=""><img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/></a></code> 
 <code><a href="https://www.linkedin.com/in/vicente-piltcher-1235b120b/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/></a></code>
-<br/><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="40" height="30"> Full Stack Developer<br/>
+<br/><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="40" height="30"> Software Developer at Nelogica<br/>
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg widht="30" height="30"> Contato: vipiltcher62@gmail.com
  
 PUCRS - Ciências da Computação 📚 <br/>
