@@ -52,9 +52,9 @@
 ###
 
 <p align="center">
-✨ Creating Websites since 2020
-📚 I'm currently learning Java
-🎯 Objectives: Improve Front-end
+✨ Creating Websites since 2021
+📚 I'm currently learning Vue3 and Reactivity System
+🎯 Objectives: Become a Frontend Engineer
 </p>
 
 ###
