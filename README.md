@@ -57,4 +57,9 @@
 🎯 Objectives: Become a Frontend Engineer
 </p>
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
+  <img width="12" />
+</p>
+
 ###
