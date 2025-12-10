@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vicente-piltcher/">
+  <a href="https://www.linkedin.com/in/vicente-piltcher/" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
   <img width="6" /></a>
   
