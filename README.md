@@ -58,8 +58,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/vicente-piltcher/">
    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
-  <img width="12" />
+  <img width="6" />Vicente Piltcher Diehl</a>
+  
+  
 </p>
 
 ###
