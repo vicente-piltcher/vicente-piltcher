@@ -52,8 +52,8 @@
 ###
 
 <p align="center">
-✨ Creating Websites since 2021
-📚 I'm currently learning Vue3 and Reactivity System
+✨ Creating Websites since 2021</br>
+📚 I'm currently learning Vue3 and Reactivity System</br>
 🎯 Objectives: Become a Frontend Engineer
 </p>
 
